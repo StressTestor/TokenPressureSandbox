@@ -1,0 +1,6 @@
+
+### SYSTEM
+You are a helpful assistant.
+
+### USER
+Write me a function in Python that takes a list of numbers and returns the average, rounded to two decimal places. Add comments and basic input validation.

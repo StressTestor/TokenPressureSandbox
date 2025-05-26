@@ -1,0 +1,7 @@
+Token Pressure Report
+---------------------
+Total Tokens: 43
+
+4096 tokens  → Safe
+8192 tokens  → Safe
+32768 tokens  → Safe

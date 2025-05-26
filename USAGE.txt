@@ -1,0 +1,25 @@
+
+Token Pressure Sandbox (CLI)
+
+This tool calculates how many tokens your prompt uses and compares it against common LLM context limits (4k, 8k, 32k).
+
+---
+
+Quick Start:
+1. Install dependencies (one-time):
+   pip install -r requirements.txt
+
+2. Run the tool:
+   python sandbox.py test_prompt.txt
+
+3. To generate a summary report:
+   python sandbox.py test_prompt.txt --save-report
+
+4. Or just double-click:
+   run_token_sandbox.bat
+
+---
+
+Outputs:
+- token_pressure_output.csv → Raw CSV data
+- token_pressure_report.txt → Easy-to-read summary
